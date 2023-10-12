@@ -1,0 +1,25 @@
+export default {
+    dark2: '#334014',
+    green: '#87BE02',
+    gray: '#899AA4',
+    border: '#E5EEFF',
+    disableBg: '#F9FBFF',
+    text: '#3A3A3A',
+    seperator: '#D3E0EA',
+    grayScale: '#828897',
+    cursor: '#004F2E',
+    text1: '#5F697C',
+    text2: '#25282D',
+    executorBtn: '#D7EBA8',
+    customerBtn: '#537501',
+    icon: '#D8D8D8',
+    forground: '#638C01',
+    orange: '#FF8A00',
+    black: '#09051C',
+    lighter: '#D4E7A2',
+    heartBG: '#FFFFFF55',
+    lightGreen: '#C0FF2F',
+    light: '#B1B0B0',
+
+    mainColor: '#224F31'
+}
